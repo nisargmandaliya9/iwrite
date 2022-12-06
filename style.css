@@ -10,7 +10,7 @@ body{
     position: fixed;
     width: 100%;
     height: 70px;
-    background-color: rgb(5, 3, 65);
+    background-color: #3F0071;
     margin-top: 0;
     margin-bottom: 0;
     padding: 0;
@@ -47,7 +47,7 @@ body{
 .navbar .nav-link a{
     font-family: 'Roboto Mono', monospace;
     text-decoration: none;
-    color: rgb(100, 244, 232);
+    color: #fff;
     border-radius: 4px;
     margin: 12px;
     padding: 7px;
@@ -55,13 +55,13 @@ body{
 
 .navbar .nav-link:nth-child(2) a:hover{
     color: rgb(5, 3, 65);
-    background-color: rgb(100, 244, 232);
+    background-color: #6D67E4;
     transition: all 0.2s ease-in;
 }
 
 .navbar .nav-link:nth-child(3) a:hover{
     color: rgb(5, 3, 65);
-    background-color: rgb(100, 244, 232);
+    background-color: #6D67E4;
     transition: all 0.2s ease-in;
 }
 /* ------------------------------------------------  Navbar-end  ------------------------------------------- */
@@ -71,7 +71,7 @@ body{
     max-width: 100vw;
     height: 300px;
     color: rgb(142, 189, 255);
-    background-color: rgb(5, 3, 65);
+    background-color: #3F0071;
     text-shadow: 2px 0 3px rgba(12, 12, 12, 0.67);
     border-bottom: 2px solid rgb(206, 195, 195);
     padding-top: 150px;
@@ -94,7 +94,7 @@ body{
 .thought{
     font-family: 'Poppins', sans-serif;
     max-width: 100vw; 
-    background-color: rgb(0, 161, 161); 
+    background-color: #6D67E4; 
     border-bottom: 2px solid rgb(206, 195, 195);
     padding: 50px 0;
 }
@@ -136,7 +136,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(5, 3, 65);
+    background-color: #3F0071;
     border-bottom: 2px solid rgb(206, 195, 195);
 }
 
@@ -158,7 +158,7 @@ body{
 .connect form h3{
     font-size: 17px;
     text-align: center;
-    color: rgb(0, 161, 161);
+    color: #F2F7A1;
     margin-top: 0;
     margin-bottom: 30px;
     font-weight: 200;
@@ -167,7 +167,7 @@ body{
 
 .connect form label{
     font-size: 20px;
-    color: rgb(88, 255, 241);
+    color: #F2F7A1;
     margin-bottom: 3px;
 }
 
@@ -183,21 +183,21 @@ body{
 .connect form button{
     font-size: 17px;
     padding: 5px;
-    border: 1.5px solid rgb(88, 255, 241);
+    border: 1.5px solid #F2F7A1;
     border-radius: 4px;
     cursor: pointer;
 }
 
 .connect form button:hover{
     color: rgb(5, 3, 65);
-    background-color: rgb(88, 255, 241);
+    background-color: #F2F7A1;
     transition: all 0.4s ease-in-out;
 }
 
 footer{
     font-family: 'Play', sans-serif;
     max-width: 100vw;
-    background-color: rgb(0, 161, 161);
+    background-color: #6D67E4;
 }
 
 .icons{
@@ -234,7 +234,7 @@ footer p{
 }
 
 .writings #poem1{
-    background-color: rgb(100, 244, 232);
+    background-color: #F2F7A1;
     margin: 20px;
     padding: 25px 60px;
     line-height: 30px;
@@ -244,8 +244,7 @@ footer p{
 }
 
 .writings #poem2{
-    color: rgb(226, 239, 239); 
-    background-color: rgb(5, 3, 65);
+    background-color: #6D67E4;
     margin: 20px;
     padding: 25px 60px;
     line-height: 30px;
@@ -255,7 +254,7 @@ footer p{
 }
 
 .writings #poem3{
-    background-color: rgb(100, 244, 232);
+    background-color: #F2F7A1;
     margin: 20px;
     padding: 25px 60px;
     line-height: 30px;
@@ -265,8 +264,7 @@ footer p{
 }
 
 .writings #poem4{
-    color: rgb(226, 239, 239);
-    background-color: rgb(5, 3, 65);
+    background-color: #6D67E4;
     margin: 20px;
     padding: 25px 60px;
     line-height: 30px;
@@ -276,7 +274,7 @@ footer p{
 }
 
 .writings #poem5{
-    background-color: rgb(100, 244, 232);
+    background-color: #F2F7A1;
     margin: 20px;
     padding: 25px 60px;
     line-height: 30px;
@@ -286,8 +284,7 @@ footer p{
 }
 
 .writings #poem6{
-    color: rgb(226, 239, 239);
-    background-color: rgb(5, 3, 65);
+    background-color: #6D67E4;
     margin: 20px;
     padding: 25px 60px;
     line-height: 30px;
@@ -297,7 +294,7 @@ footer p{
 }
 
 .writings #poem7{
-    background-color: rgb(100, 244, 232);
+    background-color: #F2F7A1;
     margin: 20px;
     padding: 25px 60px;
     line-height: 30px;
